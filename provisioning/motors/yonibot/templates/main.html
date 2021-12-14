@@ -1,0 +1,120 @@
+<html>
+  <head>
+    <title>Yoniberry Pi</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  </head>
+  <body>
+  <div class="container-fluid">
+    <div class="row" style="height: 10vh; margin-bottom: 3vh; margin-top:1vh;">
+      <div class="col-xs-4">
+      </div>
+      <div class="col-xs-4">
+        <button id="forward-fast" type="button" class="btn btn-primary motor-cmd" data-cmd="lmp=100&rmp=100" style="height:48%; width: 100%; margin-bottom:1%; font-size: 3vh;">^</button>
+        <button id="forward-slow" type="button" class="btn btn-primary motor-cmd" data-cmd="lmp=50&rmp=50" style="height:48%; width: 100%; font-size: 3vh;">^</button>
+      </div>
+      <div class="col-xs-4">
+      </div>
+    </div>
+    <div class="row" style="height: 10vh;">
+      <div class="col-xs-4">
+        <button id="left-fast" type="button" class="btn btn-primary motor-cmd" data-cmd="lmp=100&rmp=-100" style="height:100%; width: 48%; font-size: 3vh;">&lt;</button>
+        <button id="left-slow" type="button" class="btn btn-primary motor-cmd" data-cmd="lmp=50&rmp=-50" style="height:100%; width: 48%; font-size: 3vh;">&lt;</button>
+      </div>
+      <div class="col-xs-4" style="text-align: center;">
+        <button id="reset" title="reset webserver" type="button" class="btn btn-primary" style="height:100%; font-size: 3vh;">RESTART</button>
+      </div>
+      <div class="col-xs-4">
+        <button id="right-slow" type="button" class="btn btn-primary motor-cmd" data-cmd="lmp=-50&rmp=50" style="height:100%; width: 48%; font-size: 3vh;">&gt;</button>
+        <button id="right-fast" type="button" class="btn btn-primary motor-cmd" data-cmd="lmp=-100&rmp=100" style="height:100%; width: 48%; font-size: 3vh;">&gt;</button>
+      </div>
+    </div>
+    <div class="row" style="height: 10vh; margin-top: 3vh;">
+      <div class="col-xs-4">
+      </div>
+      <div class="col-xs-4">
+        <button id="back-slow" type="button" class="btn btn-primary motor-cmd" data-cmd="lmp=-50&rmp=-50" style="height:48%; width: 100%; margin-bottom:1%; font-size: 3vh;">v</button>
+        <button id="back-fast" type="button" class="btn btn-primary motor-cmd" data-cmd="lmp=-100&rmp=-100" style="height:48%; width: 100%; font-size: 3vh;">v</button>
+      </div>
+      <div class="col-xs-4">
+      </div>
+    </div>
+  </div>
+  <script>
+$(function(){
+  var running = false;
+
+  function motors_tank(cmd) {
+    if (running) return;
+    running = true;
+    console.log(cmd);
+    $.ajax('/motors_tank?' + cmd, function() {
+    });
+  }
+  function motors_stop() {
+    running = false;
+    $('button').removeClass('active');
+    console.log('STOP!');
+    $.ajax('/motors_stop');
+  }
+
+  $('.motor-cmd').mousedown(function() {
+    var cmd = $(this).data('cmd');
+    motors_tank(cmd);
+  });
+  $('.motor-cmd').mouseup(function() {
+    motors_stop();
+  });
+  $('.motor-cmd').on('touchstart', function() {
+    var cmd = $(this).data('cmd');
+    motors_tank(cmd);
+  });
+  $('.motor-cmd').on('touchend', function() {
+    motors_stop();
+  });
+
+  $('html').keydown(function(e){
+    var direction = null;
+    var speed = 'fast';
+    if (e.which == 87 || e.which == 38) {
+      direction = 'forward';
+    }
+    if (e.which == 83 || e.which == 40) {
+      direction = 'back';
+    }  
+    if (e.which == 65 || e.which == 37) {
+      // TODO I am flipping these for now
+	// because I am getting opposite directions
+	// from what I expect.
+	// This may be an issue of wiring,
+	// so look into it later.
+	direction = 'left';
+    }
+    if (e.which == 68 || e.which == 39) {
+      direction = 'right';
+    }
+    if (e.shiftKey) {
+      speed = 'slow';
+    }
+    if (direction) {
+      $('#' + direction + '-' + speed).addClass('active');
+      motors_tank($('#' + direction + '-' + speed).data('cmd'));
+    }
+  });
+  $('html').keyup(function() {
+    motors_stop();
+  });
+
+  $('#reset').click(function() {
+    $.ajax('/hard_reset', function() {
+    });
+    var $this = $(this);
+    $this.fadeOut(function(){ $this.fadeIn(); });
+    return false;
+  });
+});
+  </script>
+</body>
+</html>
+

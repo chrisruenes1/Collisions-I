@@ -1,0 +1,12 @@
+
+[Unit]
+Description=Start motors flask server
+After=multi-user.target
+
+[Service]
+Type=idle
+WorkingDirectory=/home/pi/Desktop/yonibot
+ExecStart=/usr/bin/flask run --port=3500
+
+[Install]
+WantedBy=multi-user.target

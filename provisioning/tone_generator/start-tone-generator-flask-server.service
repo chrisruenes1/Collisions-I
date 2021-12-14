@@ -1,0 +1,11 @@
+[Unit]
+Description=Start flask server
+After=multi-user.target
+
+[Service]
+Type=idle
+WorkingDirectory=/home/pi/Desktop
+ExecStart=/usr/bin/flask run --port=2000
+
+[Install]
+WantedBy=multi-user.target
