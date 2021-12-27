@@ -1,0 +1,278 @@
+{
+    "Blue Robot": [
+        {
+            "ms_start": 0.0,
+            "ms_end": 9.0,
+            "ms_duration": 9.0,
+            "__beat_length__": 6.0,
+            "pitches": [
+                "B4"
+            ],
+            "waveType": "2"
+        },
+        {
+            "ms_start": 9.0,
+            "ms_end": 18.0,
+            "ms_duration": 9.0,
+            "__beat_length__": 6.0,
+            "pitches": [
+                "D5"
+            ],
+            "waveType": "2"
+        },
+        {
+            "ms_start": 18.0,
+            "ms_end": 27.0,
+            "ms_duration": 9.0,
+            "__beat_length__": 6.0,
+            "pitches": [
+                "B5"
+            ],
+            "waveType": "2"
+        },
+        {
+            "ms_start": 27.0,
+            "ms_end": 36.0,
+            "ms_duration": 9.0,
+            "__beat_length__": 6.0,
+            "pitches": [
+                "A5"
+            ],
+            "waveType": "2"
+        },
+        {
+            "ms_start": 36.0,
+            "ms_end": 45.0,
+            "ms_duration": 9.0,
+            "__beat_length__": 6.0,
+            "pitches": [
+                "B4"
+            ],
+            "waveType": "2"
+        },
+        {
+            "ms_start": 45.0,
+            "ms_end": 54.0,
+            "ms_duration": 9.0,
+            "__beat_length__": 6.0,
+            "pitches": [
+                "D#5"
+            ],
+            "waveType": "2"
+        },
+        {
+            "ms_start": 54.0,
+            "ms_end": 63.0,
+            "ms_duration": 9.0,
+            "__beat_length__": 6.0,
+            "pitches": [
+                "F#5"
+            ],
+            "waveType": "2"
+        },
+        {
+            "ms_start": 63.0,
+            "ms_end": 72.0,
+            "ms_duration": 9.0,
+            "__beat_length__": 6.0,
+            "pitches": [
+                "G#5"
+            ],
+            "waveType": "2"
+        },
+        {
+            "ms_start": 72.0,
+            "ms_end": 81.0,
+            "ms_duration": 9.0,
+            "__beat_length__": 6.0,
+            "pitches": [
+                "G#5"
+            ],
+            "waveType": "2"
+        }
+    ],
+    "Yellow Robot": [
+        {
+            "ms_start": 0.0,
+            "ms_end": 9.0,
+            "ms_duration": 9.0,
+            "__beat_length__": 6.0,
+            "pitches": [
+                "A4"
+            ],
+            "waveType": "2"
+        },
+        {
+            "ms_start": 9.0,
+            "ms_end": 18.0,
+            "ms_duration": 9.0,
+            "__beat_length__": 6.0,
+            "pitches": [
+                "C5"
+            ],
+            "waveType": "2"
+        },
+        {
+            "ms_start": 18.0,
+            "ms_end": 27.0,
+            "ms_duration": 9.0,
+            "__beat_length__": 6.0,
+            "pitches": [
+                "G5"
+            ],
+            "waveType": "2"
+        },
+        {
+            "ms_start": 27.0,
+            "ms_end": 36.0,
+            "ms_duration": 9.0,
+            "__beat_length__": 6.0,
+            "pitches": [
+                "F#5"
+            ],
+            "waveType": "2"
+        },
+        {
+            "ms_start": 36.0,
+            "ms_end": 45.0,
+            "ms_duration": 9.0,
+            "__beat_length__": 6.0,
+            "pitches": [
+                "A4"
+            ],
+            "waveType": "2"
+        },
+        {
+            "ms_start": 45.0,
+            "ms_end": 54.0,
+            "ms_duration": 9.0,
+            "__beat_length__": 6.0,
+            "pitches": [
+                "E4"
+            ],
+            "waveType": "2"
+        },
+        {
+            "ms_start": 54.0,
+            "ms_end": 63.0,
+            "ms_duration": 9.0,
+            "__beat_length__": 6.0,
+            "pitches": [
+                "E5"
+            ],
+            "waveType": "2"
+        },
+        {
+            "ms_start": 63.0,
+            "ms_end": 72.0,
+            "ms_duration": 9.0,
+            "__beat_length__": 6.0,
+            "pitches": [
+                "C#5"
+            ],
+            "waveType": "2"
+        },
+        {
+            "ms_start": 72.0,
+            "ms_end": 81.0,
+            "ms_duration": 9.0,
+            "__beat_length__": 6.0,
+            "pitches": [
+                "F#5"
+            ],
+            "waveType": "2"
+        }
+    ],
+    "Pink Robot": [
+        {
+            "ms_start": 0.0,
+            "ms_end": 9.0,
+            "ms_duration": 9.0,
+            "__beat_length__": 6.0,
+            "pitches": [
+                "G4"
+            ],
+            "waveType": "2"
+        },
+        {
+            "ms_start": 9.0,
+            "ms_end": 18.0,
+            "ms_duration": 9.0,
+            "__beat_length__": 6.0,
+            "pitches": [
+                "E4"
+            ],
+            "waveType": "2"
+        },
+        {
+            "ms_start": 18.0,
+            "ms_end": 27.0,
+            "ms_duration": 9.0,
+            "__beat_length__": 6.0,
+            "pitches": [
+                "A4"
+            ],
+            "waveType": "2"
+        },
+        {
+            "ms_start": 27.0,
+            "ms_end": 36.0,
+            "ms_duration": 9.0,
+            "__beat_length__": 6.0,
+            "pitches": [
+                "G4"
+            ],
+            "waveType": "2"
+        },
+        {
+            "ms_start": 36.0,
+            "ms_end": 45.0,
+            "ms_duration": 9.0,
+            "__beat_length__": 6.0,
+            "pitches": [
+                "F4"
+            ],
+            "waveType": "2"
+        },
+        {
+            "ms_start": 45.0,
+            "ms_end": 54.0,
+            "ms_duration": 9.0,
+            "__beat_length__": 6.0,
+            "pitches": [
+                "C4"
+            ],
+            "waveType": "2"
+        },
+        {
+            "ms_start": 54.0,
+            "ms_end": 63.0,
+            "ms_duration": 9.0,
+            "__beat_length__": 6.0,
+            "pitches": [
+                "B4"
+            ],
+            "waveType": "2"
+        },
+        {
+            "ms_start": 63.0,
+            "ms_end": 72.0,
+            "ms_duration": 9.0,
+            "__beat_length__": 6.0,
+            "pitches": [
+                "A4"
+            ],
+            "waveType": "2"
+        },
+        {
+            "ms_start": 72.0,
+            "ms_end": 81.0,
+            "ms_duration": 9.0,
+            "__beat_length__": 6.0,
+            "pitches": [
+                "E4"
+            ],
+            "waveType": "2"
+        }
+    ]
+}

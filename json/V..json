@@ -1,0 +1,593 @@
+{
+    "Yellow Robot": [
+        {
+            "ms_start": 2.727272727272727,
+            "ms_end": 8.181818181818182,
+            "ms_duration": 5.454545454545454,
+            "__beat_length__": 4.0,
+            "pitches": [
+                "D#3"
+            ]
+        },
+        {
+            "ms_start": 10.909090909090908,
+            "ms_end": 16.363636363636363,
+            "ms_duration": 5.454545454545454,
+            "__beat_length__": 4.0,
+            "pitches": [
+                "D#3"
+            ]
+        },
+        {
+            "ms_start": 16.363636363636363,
+            "ms_end": 19.09090909090909,
+            "ms_duration": 2.727272727272727,
+            "__beat_length__": 2.0,
+            "pitches": [
+                "go"
+            ]
+        },
+        {
+            "ms_start": 20.454545454545453,
+            "ms_end": 24.545454545454547,
+            "ms_duration": 4.090909090909091,
+            "__beat_length__": 3.0,
+            "pitches": [
+                "D#3"
+            ]
+        },
+        {
+            "ms_start": 28.636363636363637,
+            "ms_end": 32.72727272727273,
+            "ms_duration": 4.090909090909091,
+            "__beat_length__": 3.0,
+            "pitches": [
+                "C#3"
+            ]
+        },
+        {
+            "ms_start": 32.72727272727273,
+            "ms_end": 38.18181818181818,
+            "ms_duration": 5.454545454545454,
+            "__beat_length__": 4.0,
+            "pitches": [
+                "go"
+            ]
+        },
+        {
+            "ms_start": 38.18181818181818,
+            "ms_end": 43.63636363636363,
+            "ms_duration": 5.454545454545454,
+            "__beat_length__": 4.0,
+            "pitches": [
+                "C3"
+            ]
+        },
+        {
+            "ms_start": 43.63636363636363,
+            "ms_end": 46.36363636363637,
+            "ms_duration": 2.727272727272727,
+            "__beat_length__": 2.0,
+            "pitches": [
+                "go"
+            ]
+        },
+        {
+            "ms_start": 46.36363636363637,
+            "ms_end": 49.09090909090909,
+            "ms_duration": 2.727272727272727,
+            "__beat_length__": 2.0,
+            "pitches": [
+                "E3"
+            ]
+        },
+        {
+            "ms_start": 49.09090909090909,
+            "ms_end": 51.81818181818182,
+            "ms_duration": 2.727272727272727,
+            "__beat_length__": 2.0,
+            "pitches": [
+                "go"
+            ]
+        },
+        {
+            "ms_start": 51.81818181818182,
+            "ms_end": 53.18181818181818,
+            "ms_duration": 1.3636363636363635,
+            "__beat_length__": 1.0,
+            "pitches": [
+                "region"
+            ]
+        },
+        {
+            "ms_start": 53.18181818181818,
+            "ms_end": 54.54545454545455,
+            "ms_duration": 1.3636363636363635,
+            "__beat_length__": 1.0,
+            "pitches": [
+                "go"
+            ]
+        },
+        {
+            "ms_start": 54.54545454545455,
+            "ms_end": 60.0,
+            "ms_duration": 5.454545454545454,
+            "__beat_length__": 4.0,
+            "pitches": [
+                "F#3"
+            ]
+        },
+        {
+            "ms_start": 60.0,
+            "ms_end": 62.72727272727273,
+            "ms_duration": 2.727272727272727,
+            "__beat_length__": 2.0,
+            "pitches": [
+                "go"
+            ]
+        },
+        {
+            "ms_start": 62.72727272727273,
+            "ms_end": 68.18181818181819,
+            "ms_duration": 5.454545454545454,
+            "__beat_length__": 4.0,
+            "pitches": [
+                "G#3"
+            ]
+        },
+        {
+            "ms_start": 68.18181818181819,
+            "ms_end": 75.0,
+            "ms_duration": 6.818181818181818,
+            "__beat_length__": 5.0,
+            "pitches": [
+                "A3"
+            ]
+        },
+        {
+            "ms_start": 75.0,
+            "ms_end": 79.0909090909091,
+            "ms_duration": 4.090909090909091,
+            "__beat_length__": 3.0,
+            "pitches": [
+                "A#3"
+            ]
+        },
+        {
+            "ms_start": 79.0909090909091,
+            "ms_end": 81.81818181818181,
+            "ms_duration": 2.727272727272727,
+            "__beat_length__": 2.0,
+            "pitches": [
+                "go"
+            ]
+        },
+        {
+            "ms_start": 81.81818181818181,
+            "ms_end": 87.27272727272727,
+            "ms_duration": 5.454545454545454,
+            "__beat_length__": 4.0,
+            "pitches": [
+                "B3"
+            ]
+        },
+        {
+            "ms_start": 92.72727272727273,
+            "ms_end": 98.18181818181819,
+            "ms_duration": 5.454545454545454,
+            "__beat_length__": 4.0,
+            "pitches": [
+                "A#3"
+            ]
+        },
+        {
+            "ms_start": 103.63636363636364,
+            "ms_end": 109.0909090909091,
+            "ms_duration": 5.454545454545454,
+            "__beat_length__": 4.0,
+            "pitches": [
+                "D#3"
+            ]
+        },
+        {
+            "ms_start": 109.0909090909091,
+            "ms_end": 114.54545454545455,
+            "ms_duration": 5.454545454545454,
+            "__beat_length__": 4.0,
+            "pitches": [
+                "go"
+            ]
+        },
+        {
+            "ms_start": 115.9090909090909,
+            "ms_end": 118.63636363636364,
+            "ms_duration": 2.727272727272727,
+            "__beat_length__": 2.0,
+            "pitches": [
+                "D#3"
+            ]
+        },
+        {
+            "ms_start": 122.72727272727273,
+            "ms_end": 125.45454545454545,
+            "ms_duration": 2.727272727272727,
+            "__beat_length__": 2.0,
+            "pitches": [
+                "D#3"
+            ]
+        },
+        {
+            "ms_start": 128.1818181818182,
+            "ms_end": 130.9090909090909,
+            "ms_duration": 2.727272727272727,
+            "__beat_length__": 2.0,
+            "pitches": [
+                "pedal"
+            ]
+        },
+        {
+            "ms_start": 130.9090909090909,
+            "ms_end": 133.63636363636363,
+            "ms_duration": 2.727272727272727,
+            "__beat_length__": 2.0,
+            "pitches": [
+                "G#3"
+            ]
+        },
+        {
+            "ms_start": 133.63636363636363,
+            "ms_end": 136.36363636363637,
+            "ms_duration": 2.727272727272727,
+            "__beat_length__": 2.0,
+            "pitches": [
+                "go"
+            ]
+        },
+        {
+            "ms_start": 136.36363636363637,
+            "ms_end": 137.72727272727272,
+            "ms_duration": 1.3636363636363635,
+            "__beat_length__": 1.0,
+            "pitches": [
+                "A3"
+            ]
+        },
+        {
+            "ms_start": 137.72727272727272,
+            "ms_end": 143.1818181818182,
+            "ms_duration": 5.454545454545454,
+            "__beat_length__": 4.0,
+            "pitches": [
+                "A#3"
+            ]
+        },
+        {
+            "ms_start": 147.27272727272728,
+            "ms_end": 151.36363636363637,
+            "ms_duration": 4.090909090909091,
+            "__beat_length__": 3.0,
+            "pitches": [
+                "G#3"
+            ]
+        },
+        {
+            "ms_start": 151.36363636363637,
+            "ms_end": 156.8181818181818,
+            "ms_duration": 5.454545454545454,
+            "__beat_length__": 4.0,
+            "pitches": [
+                "go"
+            ]
+        }
+    ],
+    "Blue Robot": [
+        {
+            "ms_start": 5.454545454545454,
+            "ms_end": 8.181818181818182,
+            "ms_duration": 2.727272727272727,
+            "__beat_length__": 2.0,
+            "pitches": [
+                "go"
+            ]
+        },
+        {
+            "ms_start": 8.181818181818182,
+            "ms_end": 9.545454545454545,
+            "ms_duration": 1.3636363636363635,
+            "__beat_length__": 1.0,
+            "pitches": [
+                "pedal"
+            ]
+        },
+        {
+            "ms_start": 19.09090909090909,
+            "ms_end": 20.454545454545453,
+            "ms_duration": 1.3636363636363635,
+            "__beat_length__": 1.0,
+            "pitches": [
+                "region"
+            ]
+        },
+        {
+            "ms_start": 24.545454545454547,
+            "ms_end": 27.272727272727273,
+            "ms_duration": 2.727272727272727,
+            "__beat_length__": 2.0,
+            "pitches": [
+                "go"
+            ]
+        },
+        {
+            "ms_start": 40.90909090909091,
+            "ms_end": 43.63636363636363,
+            "ms_duration": 2.727272727272727,
+            "__beat_length__": 2.0,
+            "pitches": [
+                "go"
+            ]
+        },
+        {
+            "ms_start": 43.63636363636363,
+            "ms_end": 46.36363636363637,
+            "ms_duration": 2.727272727272727,
+            "__beat_length__": 2.0,
+            "pitches": [
+                "current"
+            ]
+        },
+        {
+            "ms_start": 49.09090909090909,
+            "ms_end": 54.54545454545455,
+            "ms_duration": 5.454545454545454,
+            "__beat_length__": 4.0,
+            "pitches": [
+                "go"
+            ]
+        },
+        {
+            "ms_start": 60.0,
+            "ms_end": 62.72727272727273,
+            "ms_duration": 2.727272727272727,
+            "__beat_length__": 2.0,
+            "pitches": [
+                "go"
+            ]
+        },
+        {
+            "ms_start": 62.72727272727273,
+            "ms_end": 64.0909090909091,
+            "ms_duration": 1.3636363636363635,
+            "__beat_length__": 1.0,
+            "pitches": [
+                "pedal"
+            ]
+        },
+        {
+            "ms_start": 73.63636363636364,
+            "ms_end": 76.36363636363636,
+            "ms_duration": 2.727272727272727,
+            "__beat_length__": 2.0,
+            "pitches": [
+                "go"
+            ]
+        },
+        {
+            "ms_start": 79.0909090909091,
+            "ms_end": 80.45454545454545,
+            "ms_duration": 1.3636363636363635,
+            "__beat_length__": 1.0,
+            "pitches": [
+                "pedal"
+            ]
+        },
+        {
+            "ms_start": 95.45454545454545,
+            "ms_end": 96.81818181818181,
+            "ms_duration": 1.3636363636363635,
+            "__beat_length__": 1.0,
+            "pitches": [
+                "current"
+            ]
+        },
+        {
+            "ms_start": 106.36363636363636,
+            "ms_end": 109.0909090909091,
+            "ms_duration": 2.727272727272727,
+            "__beat_length__": 2.0,
+            "pitches": [
+                "go"
+            ]
+        },
+        {
+            "ms_start": 117.27272727272727,
+            "ms_end": 118.63636363636364,
+            "ms_duration": 1.3636363636363635,
+            "__beat_length__": 1.0,
+            "pitches": [
+                "current"
+            ]
+        },
+        {
+            "ms_start": 120.0,
+            "ms_end": 122.72727272727273,
+            "ms_duration": 2.727272727272727,
+            "__beat_length__": 2.0,
+            "pitches": [
+                "go"
+            ]
+        },
+        {
+            "ms_start": 136.36363636363637,
+            "ms_end": 137.72727272727272,
+            "ms_duration": 1.3636363636363635,
+            "__beat_length__": 1.0,
+            "pitches": [
+                "region"
+            ]
+        },
+        {
+            "ms_start": 154.0909090909091,
+            "ms_end": 156.8181818181818,
+            "ms_duration": 2.727272727272727,
+            "__beat_length__": 2.0,
+            "pitches": [
+                "go"
+            ]
+        }
+    ],
+    "Pink Robot": [
+        {
+            "ms_start": 5.454545454545454,
+            "ms_end": 8.181818181818182,
+            "ms_duration": 2.727272727272727,
+            "__beat_length__": 2.0,
+            "pitches": [
+                "go"
+            ]
+        },
+        {
+            "ms_start": 8.181818181818182,
+            "ms_end": 9.545454545454545,
+            "ms_duration": 1.3636363636363635,
+            "__beat_length__": 1.0,
+            "pitches": [
+                "current"
+            ]
+        },
+        {
+            "ms_start": 19.09090909090909,
+            "ms_end": 20.454545454545453,
+            "ms_duration": 1.3636363636363635,
+            "__beat_length__": 1.0,
+            "pitches": [
+                "pedal"
+            ]
+        },
+        {
+            "ms_start": 24.545454545454547,
+            "ms_end": 27.272727272727273,
+            "ms_duration": 2.727272727272727,
+            "__beat_length__": 2.0,
+            "pitches": [
+                "go"
+            ]
+        },
+        {
+            "ms_start": 40.90909090909091,
+            "ms_end": 43.63636363636363,
+            "ms_duration": 2.727272727272727,
+            "__beat_length__": 2.0,
+            "pitches": [
+                "go"
+            ]
+        },
+        {
+            "ms_start": 43.63636363636363,
+            "ms_end": 46.36363636363637,
+            "ms_duration": 2.727272727272727,
+            "__beat_length__": 2.0,
+            "pitches": [
+                "pedal"
+            ]
+        },
+        {
+            "ms_start": 49.09090909090909,
+            "ms_end": 54.54545454545455,
+            "ms_duration": 5.454545454545454,
+            "__beat_length__": 4.0,
+            "pitches": [
+                "go"
+            ]
+        },
+        {
+            "ms_start": 60.0,
+            "ms_end": 62.72727272727273,
+            "ms_duration": 2.727272727272727,
+            "__beat_length__": 2.0,
+            "pitches": [
+                "go"
+            ]
+        },
+        {
+            "ms_start": 62.72727272727273,
+            "ms_end": 64.0909090909091,
+            "ms_duration": 1.3636363636363635,
+            "__beat_length__": 1.0,
+            "pitches": [
+                "region"
+            ]
+        },
+        {
+            "ms_start": 73.63636363636364,
+            "ms_end": 76.36363636363636,
+            "ms_duration": 2.727272727272727,
+            "__beat_length__": 2.0,
+            "pitches": [
+                "go"
+            ]
+        },
+        {
+            "ms_start": 79.0909090909091,
+            "ms_end": 80.45454545454545,
+            "ms_duration": 1.3636363636363635,
+            "__beat_length__": 1.0,
+            "pitches": [
+                "current"
+            ]
+        },
+        {
+            "ms_start": 95.45454545454545,
+            "ms_end": 96.81818181818181,
+            "ms_duration": 1.3636363636363635,
+            "__beat_length__": 1.0,
+            "pitches": [
+                "pedal"
+            ]
+        },
+        {
+            "ms_start": 106.36363636363636,
+            "ms_end": 109.0909090909091,
+            "ms_duration": 2.727272727272727,
+            "__beat_length__": 2.0,
+            "pitches": [
+                "go"
+            ]
+        },
+        {
+            "ms_start": 117.27272727272727,
+            "ms_end": 118.63636363636364,
+            "ms_duration": 1.3636363636363635,
+            "__beat_length__": 1.0,
+            "pitches": [
+                "region"
+            ]
+        },
+        {
+            "ms_start": 120.0,
+            "ms_end": 122.72727272727273,
+            "ms_duration": 2.727272727272727,
+            "__beat_length__": 2.0,
+            "pitches": [
+                "go"
+            ]
+        },
+        {
+            "ms_start": 136.36363636363637,
+            "ms_end": 137.72727272727272,
+            "ms_duration": 1.3636363636363635,
+            "__beat_length__": 1.0,
+            "pitches": [
+                "pedal"
+            ]
+        },
+        {
+            "ms_start": 154.0909090909091,
+            "ms_end": 156.8181818181818,
+            "ms_duration": 2.727272727272727,
+            "__beat_length__": 2.0,
+            "pitches": [
+                "go"
+            ]
+        }
+    ]
+}

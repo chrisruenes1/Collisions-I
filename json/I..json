@@ -7,7 +7,8 @@
             "__beat_length__": 8.0,
             "pitches": [
                 "A6"
-            ]
+            ],
+            "waveType": "2"
         },
         {
             "ms_start": 6.666666666666667,
@@ -16,7 +17,8 @@
             "__beat_length__": 8.0,
             "pitches": [
                 "A6"
-            ]
+            ],
+            "waveType": "1"
         },
         {
             "ms_start": 13.333333333333334,
@@ -25,7 +27,8 @@
             "__beat_length__": 8.0,
             "pitches": [
                 "G#6"
-            ]
+            ],
+            "waveType": "0"
         },
         {
             "ms_start": 20.0,
@@ -34,7 +37,8 @@
             "__beat_length__": 8.0,
             "pitches": [
                 "G#6"
-            ]
+            ],
+            "waveType": "1"
         },
         {
             "ms_start": 26.666666666666668,
@@ -43,7 +47,8 @@
             "__beat_length__": 8.0,
             "pitches": [
                 "F#6"
-            ]
+            ],
+            "waveType": "2"
         },
         {
             "ms_start": 33.333333333333336,
@@ -52,7 +57,8 @@
             "__beat_length__": 8.0,
             "pitches": [
                 "F#6"
-            ]
+            ],
+            "waveType": "2"
         },
         {
             "ms_start": 40.0,
@@ -62,7 +68,8 @@
             "pitches": [
                 "E5",
                 "E6"
-            ]
+            ],
+            "waveType": "0"
         },
         {
             "ms_start": 46.666666666666664,
@@ -72,7 +79,8 @@
             "pitches": [
                 "E5",
                 "E6"
-            ]
+            ],
+            "waveType": "0"
         },
         {
             "ms_start": 53.333333333333336,
@@ -82,7 +90,8 @@
             "pitches": [
                 "F5",
                 "D6"
-            ]
+            ],
+            "waveType": "2"
         },
         {
             "ms_start": 60.0,
@@ -91,7 +100,8 @@
             "__beat_length__": 8.0,
             "pitches": [
                 "D6"
-            ]
+            ],
+            "waveType": "2"
         },
         {
             "ms_start": 66.66666666666667,
@@ -100,7 +110,8 @@
             "__beat_length__": 8.0,
             "pitches": [
                 "C#6"
-            ]
+            ],
+            "waveType": "2"
         },
         {
             "ms_start": 73.33333333333333,
@@ -109,7 +120,8 @@
             "__beat_length__": 8.0,
             "pitches": [
                 "B5"
-            ]
+            ],
+            "waveType": "1"
         },
         {
             "ms_start": 80.0,
@@ -118,7 +130,8 @@
             "__beat_length__": 8.0,
             "pitches": [
                 "G#5"
-            ]
+            ],
+            "waveType": "2"
         },
         {
             "ms_start": 86.66666666666667,
@@ -127,7 +140,8 @@
             "__beat_length__": 8.0,
             "pitches": [
                 "A5"
-            ]
+            ],
+            "waveType": "2"
         },
         {
             "ms_start": 93.33333333333333,
@@ -136,7 +150,8 @@
             "__beat_length__": 4.0,
             "pitches": [
                 "G#5"
-            ]
+            ],
+            "waveType": "0"
         },
         {
             "ms_start": 96.66666666666667,
@@ -145,7 +160,8 @@
             "__beat_length__": 4.0,
             "pitches": [
                 "C#5"
-            ]
+            ],
+            "waveType": "0"
         },
         {
             "ms_start": 100.0,
@@ -154,7 +170,8 @@
             "__beat_length__": 4.0,
             "pitches": [
                 "B4"
-            ]
+            ],
+            "waveType": "2"
         },
         {
             "ms_start": 103.33333333333333,
@@ -164,7 +181,8 @@
             "pitches": [
                 "F5",
                 "C#6"
-            ]
+            ],
+            "waveType": "2"
         },
         {
             "ms_start": 106.66666666666667,
@@ -173,7 +191,8 @@
             "__beat_length__": 4.0,
             "pitches": [
                 "E5"
-            ]
+            ],
+            "waveType": "2"
         },
         {
             "ms_start": 110.0,
@@ -182,7 +201,8 @@
             "__beat_length__": 4.0,
             "pitches": [
                 "D5"
-            ]
+            ],
+            "waveType": "1"
         },
         {
             "ms_start": 113.33333333333333,
@@ -191,7 +211,8 @@
             "__beat_length__": 4.0,
             "pitches": [
                 "C5"
-            ]
+            ],
+            "waveType": "1"
         },
         {
             "ms_start": 116.66666666666667,
@@ -200,7 +221,8 @@
             "__beat_length__": 4.0,
             "pitches": [
                 "A#4"
-            ]
+            ],
+            "waveType": "0"
         },
         {
             "ms_start": 120.0,
@@ -209,7 +231,8 @@
             "__beat_length__": 4.0,
             "pitches": [
                 "C#6"
-            ]
+            ],
+            "waveType": "2"
         },
         {
             "ms_start": 123.33333333333333,
@@ -218,7 +241,8 @@
             "__beat_length__": 4.0,
             "pitches": [
                 "C6"
-            ]
+            ],
+            "waveType": "2"
         },
         {
             "ms_start": 126.66666666666667,
@@ -227,7 +251,8 @@
             "__beat_length__": 4.0,
             "pitches": [
                 "G5"
-            ]
+            ],
+            "waveType": "0"
         },
         {
             "ms_start": 130.0,
@@ -236,7 +261,8 @@
             "__beat_length__": 4.0,
             "pitches": [
                 "G#5"
-            ]
+            ],
+            "waveType": "1"
         },
         {
             "ms_start": 133.33333333333334,
@@ -245,7 +271,8 @@
             "__beat_length__": 4.0,
             "pitches": [
                 "C5"
-            ]
+            ],
+            "waveType": "0"
         }
     ],
     "Pink Robot": [
@@ -256,7 +283,8 @@
             "__beat_length__": 8.0,
             "pitches": [
                 "C#6"
-            ]
+            ],
+            "waveType": "2"
         },
         {
             "ms_start": 6.666666666666667,
@@ -265,7 +293,8 @@
             "__beat_length__": 8.0,
             "pitches": [
                 "C#6"
-            ]
+            ],
+            "waveType": "1"
         },
         {
             "ms_start": 13.333333333333334,
@@ -274,7 +303,8 @@
             "__beat_length__": 8.0,
             "pitches": [
                 "B5"
-            ]
+            ],
+            "waveType": "0"
         },
         {
             "ms_start": 20.0,
@@ -283,7 +313,8 @@
             "__beat_length__": 8.0,
             "pitches": [
                 "B5"
-            ]
+            ],
+            "waveType": "2"
         },
         {
             "ms_start": 26.666666666666668,
@@ -292,7 +323,8 @@
             "__beat_length__": 8.0,
             "pitches": [
                 "B5"
-            ]
+            ],
+            "waveType": "0"
         },
         {
             "ms_start": 33.333333333333336,
@@ -301,7 +333,8 @@
             "__beat_length__": 8.0,
             "pitches": [
                 "B5"
-            ]
+            ],
+            "waveType": "0"
         },
         {
             "ms_start": 40.0,
@@ -310,7 +343,8 @@
             "__beat_length__": 8.0,
             "pitches": [
                 "C#6"
-            ]
+            ],
+            "waveType": "0"
         },
         {
             "ms_start": 46.666666666666664,
@@ -320,7 +354,8 @@
             "pitches": [
                 "A5",
                 "C#6"
-            ]
+            ],
+            "waveType": "0"
         },
         {
             "ms_start": 53.333333333333336,
@@ -330,7 +365,8 @@
             "pitches": [
                 "F5",
                 "B5"
-            ]
+            ],
+            "waveType": "2"
         },
         {
             "ms_start": 60.0,
@@ -339,7 +375,8 @@
             "__beat_length__": 8.0,
             "pitches": [
                 "B5"
-            ]
+            ],
+            "waveType": "2"
         },
         {
             "ms_start": 66.66666666666667,
@@ -348,7 +385,8 @@
             "__beat_length__": 8.0,
             "pitches": [
                 "A5"
-            ]
+            ],
+            "waveType": "2"
         },
         {
             "ms_start": 73.33333333333333,
@@ -357,7 +395,8 @@
             "__beat_length__": 8.0,
             "pitches": [
                 "D#6"
-            ]
+            ],
+            "waveType": "2"
         },
         {
             "ms_start": 80.0,
@@ -366,7 +405,8 @@
             "__beat_length__": 8.0,
             "pitches": [
                 "C6"
-            ]
+            ],
+            "waveType": "2"
         },
         {
             "ms_start": 86.66666666666667,
@@ -375,7 +415,8 @@
             "__beat_length__": 8.0,
             "pitches": [
                 "C#6"
-            ]
+            ],
+            "waveType": "2"
         },
         {
             "ms_start": 93.33333333333333,
@@ -384,7 +425,8 @@
             "__beat_length__": 4.0,
             "pitches": [
                 "C#6"
-            ]
+            ],
+            "waveType": "2"
         },
         {
             "ms_start": 96.66666666666667,
@@ -393,7 +435,8 @@
             "__beat_length__": 4.0,
             "pitches": [
                 "B5"
-            ]
+            ],
+            "waveType": "2"
         },
         {
             "ms_start": 100.0,
@@ -402,7 +445,8 @@
             "__beat_length__": 4.0,
             "pitches": [
                 "D#6"
-            ]
+            ],
+            "waveType": "2"
         },
         {
             "ms_start": 103.33333333333333,
@@ -411,7 +455,8 @@
             "__beat_length__": 4.0,
             "pitches": [
                 "C#6"
-            ]
+            ],
+            "waveType": "1"
         },
         {
             "ms_start": 106.66666666666667,
@@ -420,7 +465,8 @@
             "__beat_length__": 4.0,
             "pitches": [
                 "D6"
-            ]
+            ],
+            "waveType": "2"
         },
         {
             "ms_start": 110.0,
@@ -429,7 +475,8 @@
             "__beat_length__": 4.0,
             "pitches": [
                 "D#6"
-            ]
+            ],
+            "waveType": "2"
         },
         {
             "ms_start": 113.33333333333333,
@@ -438,7 +485,8 @@
             "__beat_length__": 4.0,
             "pitches": [
                 "G6"
-            ]
+            ],
+            "waveType": "1"
         },
         {
             "ms_start": 116.66666666666667,
@@ -447,7 +495,8 @@
             "__beat_length__": 4.0,
             "pitches": [
                 "D#6"
-            ]
+            ],
+            "waveType": "0"
         },
         {
             "ms_start": 120.0,
@@ -456,7 +505,8 @@
             "__beat_length__": 4.0,
             "pitches": [
                 "F6"
-            ]
+            ],
+            "waveType": "2"
         },
         {
             "ms_start": 123.33333333333333,
@@ -465,7 +515,8 @@
             "__beat_length__": 4.0,
             "pitches": [
                 "G6"
-            ]
+            ],
+            "waveType": "0"
         },
         {
             "ms_start": 126.66666666666667,
@@ -474,7 +525,8 @@
             "__beat_length__": 4.0,
             "pitches": [
                 "D6"
-            ]
+            ],
+            "waveType": "2"
         },
         {
             "ms_start": 130.0,
@@ -483,7 +535,8 @@
             "__beat_length__": 4.0,
             "pitches": [
                 "F6"
-            ]
+            ],
+            "waveType": "2"
         },
         {
             "ms_start": 133.33333333333334,
@@ -492,7 +545,8 @@
             "__beat_length__": 4.0,
             "pitches": [
                 "G#6"
-            ]
+            ],
+            "waveType": "2"
         }
     ],
     "Yellow Robot": [
@@ -503,7 +557,8 @@
             "__beat_length__": 8.0,
             "pitches": [
                 "E5"
-            ]
+            ],
+            "waveType": "2"
         },
         {
             "ms_start": 6.666666666666667,
@@ -512,7 +567,8 @@
             "__beat_length__": 8.0,
             "pitches": [
                 "E5"
-            ]
+            ],
+            "waveType": "1"
         },
         {
             "ms_start": 13.333333333333334,
@@ -521,7 +577,8 @@
             "__beat_length__": 8.0,
             "pitches": [
                 "C#5"
-            ]
+            ],
+            "waveType": "0"
         },
         {
             "ms_start": 20.0,
@@ -530,7 +587,8 @@
             "__beat_length__": 8.0,
             "pitches": [
                 "C#5"
-            ]
+            ],
+            "waveType": "0"
         },
         {
             "ms_start": 26.666666666666668,
@@ -539,7 +597,8 @@
             "__beat_length__": 8.0,
             "pitches": [
                 "D5"
-            ]
+            ],
+            "waveType": "1"
         },
         {
             "ms_start": 33.333333333333336,
@@ -548,7 +607,8 @@
             "__beat_length__": 8.0,
             "pitches": [
                 "E5"
-            ]
+            ],
+            "waveType": "1"
         },
         {
             "ms_start": 40.0,
@@ -557,7 +617,8 @@
             "__beat_length__": 8.0,
             "pitches": [
                 "E5"
-            ]
+            ],
+            "waveType": "2"
         },
         {
             "ms_start": 46.666666666666664,
@@ -566,7 +627,8 @@
             "__beat_length__": 8.0,
             "pitches": [
                 "E5"
-            ]
+            ],
+            "waveType": "2"
         },
         {
             "ms_start": 53.333333333333336,
@@ -575,7 +637,8 @@
             "__beat_length__": 8.0,
             "pitches": [
                 "F5"
-            ]
+            ],
+            "waveType": "2"
         },
         {
             "ms_start": 60.0,
@@ -584,7 +647,8 @@
             "__beat_length__": 8.0,
             "pitches": [
                 "F5"
-            ]
+            ],
+            "waveType": "2"
         },
         {
             "ms_start": 66.66666666666667,
@@ -593,7 +657,8 @@
             "__beat_length__": 8.0,
             "pitches": [
                 "F#5"
-            ]
+            ],
+            "waveType": "0"
         },
         {
             "ms_start": 73.33333333333333,
@@ -602,7 +667,8 @@
             "__beat_length__": 8.0,
             "pitches": [
                 "F5"
-            ]
+            ],
+            "waveType": "1"
         },
         {
             "ms_start": 80.0,
@@ -611,7 +677,8 @@
             "__beat_length__": 8.0,
             "pitches": [
                 "F5"
-            ]
+            ],
+            "waveType": "2"
         },
         {
             "ms_start": 86.66666666666667,
@@ -620,7 +687,8 @@
             "__beat_length__": 8.0,
             "pitches": [
                 "F5"
-            ]
+            ],
+            "waveType": "0"
         },
         {
             "ms_start": 93.33333333333333,
@@ -629,7 +697,8 @@
             "__beat_length__": 4.0,
             "pitches": [
                 "F#5"
-            ]
+            ],
+            "waveType": "1"
         },
         {
             "ms_start": 96.66666666666667,
@@ -639,7 +708,8 @@
             "pitches": [
                 "C#5",
                 "F#5"
-            ]
+            ],
+            "waveType": "1"
         },
         {
             "ms_start": 100.0,
@@ -649,7 +719,8 @@
             "pitches": [
                 "F#5",
                 "D#6"
-            ]
+            ],
+            "waveType": "1"
         },
         {
             "ms_start": 103.33333333333333,
@@ -658,7 +729,8 @@
             "__beat_length__": 4.0,
             "pitches": [
                 "A5"
-            ]
+            ],
+            "waveType": "1"
         },
         {
             "ms_start": 106.66666666666667,
@@ -667,7 +739,8 @@
             "__beat_length__": 4.0,
             "pitches": [
                 "B5"
-            ]
+            ],
+            "waveType": "2"
         },
         {
             "ms_start": 110.0,
@@ -676,7 +749,8 @@
             "__beat_length__": 4.0,
             "pitches": [
                 "B5"
-            ]
+            ],
+            "waveType": "2"
         },
         {
             "ms_start": 113.33333333333333,
@@ -685,7 +759,8 @@
             "__beat_length__": 4.0,
             "pitches": [
                 "G5"
-            ]
+            ],
+            "waveType": "1"
         },
         {
             "ms_start": 116.66666666666667,
@@ -694,7 +769,8 @@
             "__beat_length__": 4.0,
             "pitches": [
                 "G5"
-            ]
+            ],
+            "waveType": "0"
         },
         {
             "ms_start": 120.0,
@@ -703,7 +779,8 @@
             "__beat_length__": 4.0,
             "pitches": [
                 "F#5"
-            ]
+            ],
+            "waveType": "2"
         },
         {
             "ms_start": 123.33333333333333,
@@ -712,7 +789,8 @@
             "__beat_length__": 4.0,
             "pitches": [
                 "E5"
-            ]
+            ],
+            "waveType": "0"
         },
         {
             "ms_start": 126.66666666666667,
@@ -721,7 +799,8 @@
             "__beat_length__": 4.0,
             "pitches": [
                 "C6"
-            ]
+            ],
+            "waveType": "2"
         },
         {
             "ms_start": 130.0,
@@ -731,7 +810,8 @@
             "pitches": [
                 "C6",
                 "F6"
-            ]
+            ],
+            "waveType": "2"
         },
         {
             "ms_start": 133.33333333333334,
@@ -740,7 +820,8 @@
             "__beat_length__": 4.0,
             "pitches": [
                 "D#6"
-            ]
+            ],
+            "waveType": "2"
         }
     ]
 }

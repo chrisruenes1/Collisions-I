@@ -1,0 +1,260 @@
+{
+    "Potential Robot Harmony": [
+        {
+            "ms_start": 14.166666666666666,
+            "ms_end": 16.666666666666668,
+            "ms_duration": 2.5,
+            "__beat_length__": 3.0,
+            "pitches": [
+                "C6",
+                "F6",
+                "G#6"
+            ]
+        },
+        {
+            "ms_start": 16.666666666666668,
+            "ms_end": 20.0,
+            "ms_duration": 3.3333333333333335,
+            "__beat_length__": 4.0,
+            "pitches": [
+                "C#6",
+                "F6",
+                "G#6",
+                "A#6"
+            ]
+        },
+        {
+            "ms_start": 23.333333333333332,
+            "ms_end": 30.0,
+            "ms_duration": 6.666666666666667,
+            "__beat_length__": 8.0,
+            "pitches": [
+                "G#5",
+                "C#6",
+                "G#6"
+            ]
+        },
+        {
+            "ms_start": 37.5,
+            "ms_end": 41.666666666666664,
+            "ms_duration": 4.166666666666667,
+            "__beat_length__": 5.0,
+            "pitches": [
+                "G#5",
+                "C#6",
+                "E6"
+            ]
+        },
+        {
+            "ms_start": 44.166666666666664,
+            "ms_end": 49.166666666666664,
+            "ms_duration": 5.0,
+            "__beat_length__": 6.0,
+            "pitches": [
+                "D6",
+                "F#6",
+                "A6"
+            ]
+        },
+        {
+            "ms_start": 60.0,
+            "ms_end": 63.333333333333336,
+            "ms_duration": 3.3333333333333335,
+            "__beat_length__": 4.0,
+            "pitches": [
+                "D#6",
+                "F6",
+                "G#6"
+            ]
+        },
+        {
+            "ms_start": 63.333333333333336,
+            "ms_end": 70.0,
+            "ms_duration": 6.666666666666667,
+            "__beat_length__": 8.0,
+            "pitches": [
+                "C#6",
+                "F6",
+                "G#6",
+                "A#6"
+            ]
+        },
+        {
+            "ms_start": 70.0,
+            "ms_end": 72.5,
+            "ms_duration": 2.5,
+            "__beat_length__": 3.0,
+            "pitches": [
+                "C6",
+                "D#6",
+                "G#6"
+            ]
+        },
+        {
+            "ms_start": 75.83333333333333,
+            "ms_end": 77.5,
+            "ms_duration": 1.6666666666666667,
+            "__beat_length__": 2.0,
+            "pitches": [
+                "G#5",
+                "C6",
+                "D#6",
+                "F#6"
+            ]
+        },
+        {
+            "ms_start": 90.0,
+            "ms_end": 93.33333333333333,
+            "ms_duration": 3.3333333333333335,
+            "__beat_length__": 4.0,
+            "pitches": [
+                "D6",
+                "E6",
+                "A6"
+            ]
+        },
+        {
+            "ms_start": 93.33333333333333,
+            "ms_end": 96.66666666666667,
+            "ms_duration": 3.3333333333333335,
+            "__beat_length__": 4.0,
+            "pitches": [
+                "C#6",
+                "F#6",
+                "A6"
+            ]
+        },
+        {
+            "ms_start": 100.0,
+            "ms_end": 105.83333333333333,
+            "ms_duration": 5.833333333333333,
+            "__beat_length__": 7.0,
+            "pitches": [
+                "C6",
+                "F6",
+                "A6"
+            ]
+        },
+        {
+            "ms_start": 105.83333333333333,
+            "ms_end": 109.16666666666667,
+            "ms_duration": 3.3333333333333335,
+            "__beat_length__": 4.0,
+            "pitches": [
+                "C6",
+                "F6",
+                "A6"
+            ]
+        },
+        {
+            "ms_start": 121.66666666666667,
+            "ms_end": 129.16666666666666,
+            "ms_duration": 7.5,
+            "__beat_length__": 9.0,
+            "pitches": [
+                "D#6",
+                "G#6",
+                "C#7"
+            ]
+        },
+        {
+            "ms_start": 134.16666666666666,
+            "ms_end": 137.5,
+            "ms_duration": 3.3333333333333335,
+            "__beat_length__": 4.0,
+            "pitches": [
+                "D#6",
+                "G6",
+                "C#7"
+            ]
+        },
+        {
+            "ms_start": 145.83333333333334,
+            "ms_end": 149.16666666666666,
+            "ms_duration": 3.3333333333333335,
+            "__beat_length__": 4.0,
+            "pitches": [
+                "D6",
+                "A6",
+                "F#7"
+            ]
+        },
+        {
+            "ms_start": 155.83333333333334,
+            "ms_end": 159.16666666666666,
+            "ms_duration": 3.3333333333333335,
+            "__beat_length__": 4.0,
+            "pitches": [
+                "D6",
+                "D7",
+                "F7"
+            ]
+        },
+        {
+            "ms_start": 168.33333333333334,
+            "ms_end": 174.16666666666666,
+            "ms_duration": 5.833333333333333,
+            "__beat_length__": 7.0,
+            "pitches": [
+                "E6",
+                "G6",
+                "E7"
+            ]
+        },
+        {
+            "ms_start": 207.5,
+            "ms_end": 210.0,
+            "ms_duration": 2.5,
+            "__beat_length__": 3.0,
+            "pitches": [
+                "G5",
+                "D#6",
+                "C7"
+            ]
+        },
+        {
+            "ms_start": 210.0,
+            "ms_end": 215.0,
+            "ms_duration": 5.0,
+            "__beat_length__": 6.0,
+            "pitches": [
+                "C5",
+                "D#6",
+                "C7"
+            ]
+        },
+        {
+            "ms_start": 215.0,
+            "ms_end": 221.66666666666666,
+            "ms_duration": 6.666666666666667,
+            "__beat_length__": 8.0,
+            "pitches": [
+                "C6",
+                "D#6",
+                "C7"
+            ]
+        },
+        {
+            "ms_start": 221.66666666666666,
+            "ms_end": 228.33333333333334,
+            "ms_duration": 6.666666666666667,
+            "__beat_length__": 8.0,
+            "pitches": [
+                "D#7",
+                "C3",
+                "D#4"
+            ]
+        },
+        {
+            "ms_start": 228.33333333333334,
+            "ms_end": 235.0,
+            "ms_duration": 6.666666666666667,
+            "__beat_length__": 8.0,
+            "pitches": [
+                "D#7",
+                "C3",
+                "D#4"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,308 @@
+{
+    "Pink Robot": [
+        {
+            "ms_start": 0.0,
+            "ms_end": 15.517241379310345,
+            "ms_duration": 15.517241379310345,
+            "__beat_length__": 15.0,
+            "pitches": [
+                "G#5"
+            ],
+            "waveType": "2"
+        },
+        {
+            "ms_start": 15.517241379310345,
+            "ms_end": 22.75862068965517,
+            "ms_duration": 7.241379310344827,
+            "__beat_length__": 7.0,
+            "pitches": [
+                "C#6"
+            ],
+            "waveType": "2"
+        },
+        {
+            "ms_start": 22.75862068965517,
+            "ms_end": 33.10344827586207,
+            "ms_duration": 10.344827586206897,
+            "__beat_length__": 10.0,
+            "pitches": [
+                "G#6"
+            ],
+            "waveType": "2"
+        },
+        {
+            "ms_start": 33.10344827586207,
+            "ms_end": 41.37931034482759,
+            "ms_duration": 8.275862068965518,
+            "__beat_length__": 8.0,
+            "pitches": [
+                "F#6"
+            ],
+            "waveType": "1"
+        },
+        {
+            "ms_start": 41.37931034482759,
+            "ms_end": 53.793103448275865,
+            "ms_duration": 12.413793103448276,
+            "__beat_length__": 12.0,
+            "pitches": [
+                "C7"
+            ],
+            "waveType": "2"
+        },
+        {
+            "ms_start": 78.62068965517241,
+            "ms_end": 93.10344827586206,
+            "ms_duration": 14.482758620689655,
+            "__beat_length__": 14.0,
+            "pitches": [
+                "G6"
+            ],
+            "waveType": "1"
+        },
+        {
+            "ms_start": 93.10344827586206,
+            "ms_end": 103.44827586206897,
+            "ms_duration": 10.344827586206897,
+            "__beat_length__": 10.0,
+            "pitches": [
+                "D3"
+            ],
+            "waveType": "1"
+        },
+        {
+            "ms_start": 103.44827586206897,
+            "ms_end": 110.6896551724138,
+            "ms_duration": 7.241379310344827,
+            "__beat_length__": 7.0,
+            "pitches": [
+                "D6"
+            ],
+            "waveType": "1"
+        },
+        {
+            "ms_start": 110.6896551724138,
+            "ms_end": 116.79206896551725,
+            "ms_duration": 6.102413793103449,
+            "__beat_length__": 5.899000000000001,
+            "pitches": [
+                "C4"
+            ],
+            "waveType": "0"
+        },
+        {
+            "ms_start": 121.03448275862068,
+            "ms_end": 151.0344827586207,
+            "ms_duration": 30.0,
+            "__beat_length__": 29.0,
+            "pitches": [
+                "C#4"
+            ],
+            "waveType": "1"
+        }
+    ],
+    "Yellow Robot": [
+        {
+            "ms_start": 0.0,
+            "ms_end": 15.517241379310345,
+            "ms_duration": 15.517241379310345,
+            "__beat_length__": 15.0,
+            "pitches": [
+                "F4"
+            ],
+            "waveType": "0"
+        },
+        {
+            "ms_start": 15.517241379310345,
+            "ms_end": 22.75862068965517,
+            "ms_duration": 7.241379310344827,
+            "__beat_length__": 7.0,
+            "pitches": [
+                "F#5"
+            ],
+            "waveType": "2"
+        },
+        {
+            "ms_start": 22.75862068965517,
+            "ms_end": 33.10344827586207,
+            "ms_duration": 10.344827586206897,
+            "__beat_length__": 10.0,
+            "pitches": [
+                "F4"
+            ],
+            "waveType": "2"
+        },
+        {
+            "ms_start": 33.10344827586207,
+            "ms_end": 41.37931034482759,
+            "ms_duration": 8.275862068965518,
+            "__beat_length__": 8.0,
+            "pitches": [
+                "F4"
+            ],
+            "waveType": "1"
+        },
+        {
+            "ms_start": 41.37931034482759,
+            "ms_end": 53.793103448275865,
+            "ms_duration": 12.413793103448276,
+            "__beat_length__": 12.0,
+            "pitches": [
+                "F4"
+            ],
+            "waveType": "1"
+        },
+        {
+            "ms_start": 78.62068965517241,
+            "ms_end": 93.10344827586206,
+            "ms_duration": 14.482758620689655,
+            "__beat_length__": 14.0,
+            "pitches": [
+                "D#6"
+            ],
+            "waveType": "1"
+        },
+        {
+            "ms_start": 93.10344827586206,
+            "ms_end": 103.44827586206897,
+            "ms_duration": 10.344827586206897,
+            "__beat_length__": 10.0,
+            "pitches": [
+                "D2"
+            ],
+            "waveType": "1"
+        },
+        {
+            "ms_start": 103.44827586206897,
+            "ms_end": 110.6896551724138,
+            "ms_duration": 7.241379310344827,
+            "__beat_length__": 7.0,
+            "pitches": [
+                "F4"
+            ],
+            "waveType": "1"
+        },
+        {
+            "ms_start": 121.03448275862068,
+            "ms_end": 151.0344827586207,
+            "ms_duration": 30.0,
+            "__beat_length__": 29.0,
+            "pitches": [
+                "G#2"
+            ],
+            "waveType": "1"
+        },
+        {
+            "ms_start": 151.0344827586207,
+            "ms_end": 167.58620689655172,
+            "ms_duration": 16.551724137931036,
+            "__beat_length__": 16.0,
+            "pitches": [
+                "C#5"
+            ],
+            "waveType": "2"
+        }
+    ],
+    "Blue Robot": [
+        {
+            "ms_start": 0.0,
+            "ms_end": 15.517241379310345,
+            "ms_duration": 15.517241379310345,
+            "__beat_length__": 15.0,
+            "pitches": [
+                "C#2"
+            ],
+            "waveType": "1"
+        },
+        {
+            "ms_start": 15.517241379310345,
+            "ms_end": 22.75862068965517,
+            "ms_duration": 7.241379310344827,
+            "__beat_length__": 7.0,
+            "pitches": [
+                "A#4"
+            ],
+            "waveType": "1"
+        },
+        {
+            "ms_start": 22.75862068965517,
+            "ms_end": 33.10344827586207,
+            "ms_duration": 10.344827586206897,
+            "__beat_length__": 10.0,
+            "pitches": [
+                "A#2"
+            ],
+            "waveType": "2"
+        },
+        {
+            "ms_start": 33.10344827586207,
+            "ms_end": 41.37931034482759,
+            "ms_duration": 8.275862068965518,
+            "__beat_length__": 8.0,
+            "pitches": [
+                "D#3"
+            ],
+            "waveType": "1"
+        },
+        {
+            "ms_start": 41.37931034482759,
+            "ms_end": 53.793103448275865,
+            "ms_duration": 12.413793103448276,
+            "__beat_length__": 12.0,
+            "pitches": [
+                "A2"
+            ],
+            "waveType": "1"
+        },
+        {
+            "ms_start": 78.62068965517241,
+            "ms_end": 93.10344827586206,
+            "ms_duration": 14.482758620689655,
+            "__beat_length__": 14.0,
+            "pitches": [
+                "C4"
+            ],
+            "waveType": "1"
+        },
+        {
+            "ms_start": 93.10344827586206,
+            "ms_end": 103.44827586206897,
+            "ms_duration": 10.344827586206897,
+            "__beat_length__": 10.0,
+            "pitches": [
+                "D4"
+            ],
+            "waveType": "1"
+        },
+        {
+            "ms_start": 103.44827586206897,
+            "ms_end": 110.6896551724138,
+            "ms_duration": 7.241379310344827,
+            "__beat_length__": 7.0,
+            "pitches": [
+                "A#3"
+            ],
+            "waveType": "0"
+        },
+        {
+            "ms_start": 110.6896551724138,
+            "ms_end": 121.03448275862068,
+            "ms_duration": 10.344827586206897,
+            "__beat_length__": 10.0,
+            "pitches": [
+                "D#4"
+            ],
+            "waveType": "1"
+        },
+        {
+            "ms_start": 151.0344827586207,
+            "ms_end": 167.58620689655172,
+            "ms_duration": 16.551724137931036,
+            "__beat_length__": 16.0,
+            "pitches": [
+                "F#3"
+            ],
+            "waveType": "2"
+        }
+    ]
+}
